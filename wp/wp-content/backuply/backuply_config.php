@@ -1,0 +1,5 @@
+<?php exit();?>
+{
+    "BACKUPLY_KEY": "e68174bd7e1a3b3e54b5eaea21de8644bbb3306908ea090ed91f361849bec35d",
+    "RESTORE_KEY": "81faf44cabf6361da8725cff4159921ce70a04a7498c4d1480a4f3f0dab8e29d"
+}
